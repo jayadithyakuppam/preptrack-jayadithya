@@ -1,0 +1,71 @@
+==================================================
+              PREPTRACK APPLICATION
+==================================================
+Enter student name: Jayadithya
+Enter registration number: 5787587
+Enter graduation year: 2026
+Enter attendance percentage: 88
+Attendance accepted
+Has the student completed the required project? Enter yes or no: yes
+Is the student profile verified? Enter yes or no: yes
+Enter Day 1 score from 0 to 100, or -1 for absent: 88
+Day 1 Result: Strong
+Enter Day 2 score from 0 to 100, or -1 for absent: 99
+Day 2 Result: Strong
+Enter Day 3 score from 0 to 100, or -1 for absent: 55
+Day 3 Result: Needs Improvement
+Enter Day 4 score from 0 to 100, or -1 for absent: 64
+Day 4 Result: Satisfactory
+Enter Day 5 score from 0 to 100, or -1 for absent: 33
+Day 5 Result: Critical
+Enter Day 6 score from 0 to 100, or -1 for absent: -1
+Day 6 Result: Absent
+Enter Day 7 score from 0 to 100, or -1 for absent: 87
+Day 7 Result: Strong
+
+==================================================
+              PREPTRACK REPORT
+==================================================
+
+STUDENT PROFILE
+
+Student Name           : Jayadithya
+Registration Number    : 5787587
+Graduation Year        : 2026
+Attendance             : 88.0%
+Project Completed      : Yes
+Profile Verified       : Yes
+
+PRACTICE SUMMARY
+
+Attempted Days         : 6
+Absent Days            : 1
+Passed Days            : 4
+Failed Days            : 2
+
+Strong Days            : 3
+Satisfactory Days      : 1
+Needs Improvement Days : 1
+Critical Days          : 1
+
+PERFORMANCE ANALYSIS
+
+Total Score            : 426
+Average Score          : 71.00
+Highest Score          : 99
+Highest Score Day      : Day 2
+Lowest Score           : 33
+Lowest Score Day       : Day 5
+
+CRITICAL SCORE INFORMATION
+
+Critical Score Found   : Yes
+First Critical Day     : Day 5
+First Critical Score   : 33
+
+FINAL DECISION
+
+Final Status           : Critical score found
+Primary Blocker        : Critical score found
+Next Action            : Improve critical scores
+==================================================
