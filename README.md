@@ -89,10 +89,11 @@ Displays:
 # Project Structure
 
 ```text
-preptrack-pavitra/
+preptrack-jayaithya/
 │
 ├── main.py
 └── README.md
+└── output.txt
 ```
 
 ---
